@@ -125,3 +125,9 @@ h2 {
   vertical-align: middle;
   padding: 0 20px;
 }
+.highlight {
+  background-color: #2F4F2F;
+  padding: 5px 10px;
+  display: inline-block;
+  color: black;
+}
