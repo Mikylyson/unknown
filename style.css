@@ -22,6 +22,10 @@ h2 {
   padding-bottom: 12px;
 }
 
+.describe{
+	color: #233339
+}
+
 .container {
   width: 510px;
   margin: 0 auto;
@@ -33,9 +37,9 @@ h2 {
   height: 186px;
   margin-bottom: 70px;
   padding-top: 30px;
-  background: #847462 no-repeat center url("94FF1A4E-064D-4028-88A8-293B2A891016.webp");
+  background: #686868 no-repeat center url("img/gloevk-bg.jpg");
   background-size: cover;
-  color: #3C6352;
+  color: #344444;
 }
 
 .site-header p {
@@ -125,9 +129,4 @@ h2 {
   vertical-align: middle;
   padding: 0 20px;
 }
-.highlight {
-  background-color: #2F4F2F;
-  padding: 5px 10px;
-  display: inline-block;
-  color: black;
-}
+
